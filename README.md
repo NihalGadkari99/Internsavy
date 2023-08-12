@@ -1,4 +1,4 @@
-# Developed and deployed a Portfolio Web Application on AWS
+# Developed and Deployed a Portfolio Web Application on AWS
 # Development 
 Developed the whole portfolio website using HTML,CSS and JS.
 # Deployment
