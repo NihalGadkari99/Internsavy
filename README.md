@@ -1,6 +1,6 @@
 # Developed and deployed a Portfolio Web Application on AWS
-# Devlopment 
-Devloped the whole portfolio website using HTML,CSS and JS.
+# Development 
+Developed the whole portfolio website using HTML,CSS and JS.
 # Deployment
 We will directly connect to the VM through the AWS platform
 After connecting with the Instance, we will run the following commands on the console:
