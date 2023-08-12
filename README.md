@@ -1,8 +1,29 @@
 # Developed and deployed a Portfolio Web Application on AWS
-# Installation
-1. Clone the repository
-2. Open the index.html file in your browser
-3. Done.
+# Devlopment 
+Devloped the whole portfolio website using HTML,CSS and JS.
+# Deployment
+We will directly connect to the VM through the AWS platform
+After connecting with the Instance, we will run the following commands on the console:
+1. sudo su -
+2. yum update -y
+3. yum install -y httpd
+4. systemctl status httpd
+5. mkdir aws_assg3
+6. cd aws_assg3
+7. For this assignment we have created a portfolio website which we have uploaded on Github.com.
+8. Copy the Download Link for the .zip file of the portfolio
+9. using the wget command, download the zip file to the folder.
+10. unzip the master.zip file and navigate in to the ShreyasKulkarni_Portfolio-master folder using the cd command.
+11. move all the contents from the folder to “/var/www/html/”
+
+**Edit the Inbound Rules**
+check the status of httpd and then enable & start httpd using the following commands
+  systemctl status httpd
+  systemctl enable httpd
+  systemctl start httpd
+Now open the public ipv4 address allocated to the EC2 instance we created in new tab. We will be able to see the Portfolio Website.
+We have Successfully Deployed the Web Application on AWS Cloud!
+
 
 A portfolio website serves as a digital showcase of your work, skills, accomplishments, and personality. It's a versatile tool with various uses, particularly for individuals in creative, design, development, writing, photography, and other fields. Here are some key uses of a portfolio website:
 
