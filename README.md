@@ -1,4 +1,9 @@
-# Internsavy
+# Developed and deployed a Portfolio Web Application on AWS
+# Installation
+1. Clone the repository
+2. Open the index.html file in your browser
+3. Done.
+
 A portfolio website serves as a digital showcase of your work, skills, accomplishments, and personality. It's a versatile tool with various uses, particularly for individuals in creative, design, development, writing, photography, and other fields. Here are some key uses of a portfolio website:
 
 1. **Showcasing Work:** The primary purpose of a portfolio website is to display your best work. Whether you're an artist, designer, writer, photographer, or any other creative professional, a portfolio allows you to present your projects, pieces, or creations to potential clients, employers, collaborators, and the public.
